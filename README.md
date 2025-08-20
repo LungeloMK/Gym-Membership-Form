@@ -40,10 +40,13 @@ javac GymMembershipFrameApp.java
 java GymMembershipFrameApp
 
 📂 Project Structure
-.
+
  GymMembershipFrame.java         # GUI layout
+ 
  GymMembershipFrameApp.java      # Entry point
+ 
  Screenshot 2025-08-20 193056.png
+ 
  README.md
 
  Author
