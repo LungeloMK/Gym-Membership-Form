@@ -50,8 +50,7 @@ java GymMembershipFrameApp
  README.md
 
  Author
-
-Your Lungelo
+Lungelo
 
 Built with ❤️ using Java Swing
 
