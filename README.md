@@ -41,14 +41,14 @@ java GymMembershipFrameApp
 
 📂 Project Structure
 .
-├── GymMembershipFrame.java         # GUI layout
-├── GymMembershipFrameApp.java      # Entry point
-├── Screenshot 2025-08-20 193056.png
-└── README.md
+ GymMembershipFrame.java         # GUI layout
+ GymMembershipFrameApp.java      # Entry point
+ Screenshot 2025-08-20 193056.png
+ README.md
 
  Author
 
-Your Name
+Your Lungelo
 
 Built with ❤️ using Java Swing
 
@@ -60,5 +60,5 @@ Built with ❤️ using Java Swing
 - Screenshot  
 - README  
 
-Would you like me to also generate a **`LICENSE` file (MIT License)** so your repo looks open-source ready?
+
 
